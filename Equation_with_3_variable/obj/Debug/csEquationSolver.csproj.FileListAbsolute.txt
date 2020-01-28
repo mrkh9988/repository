@@ -1,0 +1,22 @@
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\bin\Debug\csEquationSolver.exe.config
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\bin\Debug\csEquationSolver.exe
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\bin\Debug\csEquationSolver.pdb
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.EquationsSolverForm.resources
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.Properties.Resources.resources
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.csproj.GenerateResource.cache
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.exe
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.pdb
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.csprojAssemblyReference.cache
+C:\Users\Mohandesi\Desktop\c#_3 variable equation\Equation_with_3_variable\obj\Debug\csEquationSolver.QueryForm.resources
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.csprojAssemblyReference.cache
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.EquationsSolverForm.resources
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.Properties.Resources.resources
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.QueryForm.resources
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.csproj.GenerateResource.cache
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.csproj.CoreCompileInputs.cache
+E:\AP9899\Equation_with_3_variable\bin\Debug\csEquationSolver.exe.config
+E:\AP9899\Equation_with_3_variable\bin\Debug\csEquationSolver.exe
+E:\AP9899\Equation_with_3_variable\bin\Debug\csEquationSolver.pdb
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.exe
+E:\AP9899\Equation_with_3_variable\obj\Debug\csEquationSolver.pdb
